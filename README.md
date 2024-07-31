@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kax429
 - 👀 I’m interested in Game development. 
 - 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on games? 
 - 📫 How to reach me Kax429@gmail.com 
 
 <!---
